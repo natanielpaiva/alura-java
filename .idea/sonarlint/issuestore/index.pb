@@ -7,3 +7,5 @@ U
 %src/main/java/org/example/Lambda.java,d/e/de6435a9896a6b9ca0b614a62e03d81634498b00
 Z
 *src/main/java/org/example/LambdaJava8.java,a/a/aa7a6fa661e92ee4e61a2bfbb0c452b684ece84e
+Z
+*src/main/java/org/example/StreamJava8.java,e/3/e33c3b157cb0ac6bbf9cb91e1261a614964e2a95
