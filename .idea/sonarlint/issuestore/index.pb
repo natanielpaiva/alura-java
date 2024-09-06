@@ -11,3 +11,15 @@ Z
 *src/main/java/org/example/StreamJava8.java,e/3/e33c3b157cb0ac6bbf9cb91e1261a614964e2a95
 \
 ,src/main/java/org/example/DateTimeJava8.java,f/b/fb0bd279fe0ad62c92dc725db4a2cd0f65e80182
+b
+2src/main/java/org/example/java8/DateTimeJava8.java,1/5/15689d9c4d1a8cd3a43e7f3942547e3d27bfa908
+`
+0src/main/java/org/example/java8/LambdaJava8.java,8/9/89f16b6d12271a04913aa8e3f05fb100a6997937
+`
+0src/main/java/org/example/java8/StreamJava8.java,0/8/080eace9a1aa6f65f864e94958fd5c803ade9647
+_
+/src/main/java/org/example/java8/Calculator.java,9/1/911b067cb41a63ac887d9180cf3357b2abecfc17
+l
+<src/main/java/org/example/java8/FuncionalInterfaceJava8.java,5/6/565b9342be4b219950ff8f1bbaeb30544340f4c6
+c
+3src/main/java/org/example/java8/PredicateJava8.java,0/3/03d4169a4af72a673cf8136c843f87f1e07fc92b
