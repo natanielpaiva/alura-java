@@ -23,3 +23,5 @@ l
 <src/main/java/org/example/java8/FuncionalInterfaceJava8.java,5/6/565b9342be4b219950ff8f1bbaeb30544340f4c6
 c
 3src/main/java/org/example/java8/PredicateJava8.java,0/3/03d4169a4af72a673cf8136c843f87f1e07fc92b
+_
+/src/main/java/org/example/java12a15/Switch.java,1/8/183509c1a16678f4eca51f38a597fba61a30c8d7
