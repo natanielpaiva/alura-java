@@ -25,3 +25,5 @@ c
 3src/main/java/org/example/java8/PredicateJava8.java,0/3/03d4169a4af72a673cf8136c843f87f1e07fc92b
 _
 /src/main/java/org/example/java12a15/Switch.java,1/8/183509c1a16678f4eca51f38a597fba61a30c8d7
+_
+/src/main/java/org/example/java10/VarJava10.java,b/0/b0c947ae99d25285b87a36ae35ebec9b7fb271b9
