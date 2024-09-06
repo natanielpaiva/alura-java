@@ -27,3 +27,5 @@ _
 /src/main/java/org/example/java12a15/Switch.java,1/8/183509c1a16678f4eca51f38a597fba61a30c8d7
 _
 /src/main/java/org/example/java10/VarJava10.java,b/0/b0c947ae99d25285b87a36ae35ebec9b7fb271b9
+b
+2src/main/java/org/example/java11/StringRepeat.java,4/1/411369562094a276e5f63493ee2df541bfc0742f
