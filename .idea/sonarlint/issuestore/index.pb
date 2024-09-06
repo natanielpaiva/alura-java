@@ -31,3 +31,5 @@ b
 2src/main/java/org/example/java11/StringRepeat.java,4/1/411369562094a276e5f63493ee2df541bfc0742f
 c
 3src/main/java/org/example/java11/StringIsBlank.java,f/e/fe4856fc7794c0d3cb8cd1f36ceeaf27cd7da110
+a
+1src/main/java/org/example/java11/StringStrip.java,3/6/36e713273e1ee0134b6f807f787d0eda9f2a32a0
