@@ -35,3 +35,5 @@ a
 1src/main/java/org/example/java11/StringStrip.java,3/6/36e713273e1ee0134b6f807f787d0eda9f2a32a0
 a
 1src/main/java/org/example/java11/StringLines.java,7/7/775893a42a2676a393da2bbde948a403e8ff452f
+e
+5src/main/java/org/example/java11/StringTransform.java,4/b/4b0ee282d9bceda17ea28e7a73ee2c166198e433
