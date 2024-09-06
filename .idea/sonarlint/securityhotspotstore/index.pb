@@ -29,3 +29,5 @@ _
 /src/main/java/org/example/java10/VarJava10.java,b/0/b0c947ae99d25285b87a36ae35ebec9b7fb271b9
 b
 2src/main/java/org/example/java11/StringRepeat.java,4/1/411369562094a276e5f63493ee2df541bfc0742f
+c
+3src/main/java/org/example/java11/StringIsBlank.java,f/e/fe4856fc7794c0d3cb8cd1f36ceeaf27cd7da110
