@@ -1,4 +1,4 @@
-package org.example.java16.records.modelorico;
+package org.example.java16.records.modeloquaserico;
 
 public record Order(String product, int quantity, double pricePerUnit) {
 

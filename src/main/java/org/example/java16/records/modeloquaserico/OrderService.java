@@ -1,4 +1,4 @@
-package org.example.java16.records.modelorico;
+package org.example.java16.records.modeloquaserico;
 
 public class OrderService {
     public static void main(String[] args) {

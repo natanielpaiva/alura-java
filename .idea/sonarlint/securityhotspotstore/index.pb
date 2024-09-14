@@ -41,3 +41,11 @@ n
 >src/main/java/org/example/java16/records/modelorico/Order.java,f/2/f283bf472529554941a3d5f1f74a0daceed7b00c
 u
 Esrc/main/java/org/example/java16/records/modelorico/OrderService.java,a/1/a115c5f0127825160074f17ee78b47c61c9dc676
+z
+Jsrc/main/java/org/example/java16/records/modeloquaserico/OrderService.java,f/5/f5ed24ed31fdaad7141e7fe590e2027c290dfaf1
+s
+Csrc/main/java/org/example/java16/records/modeloquaserico/Order.java,3/4/343e4279d71d281e81be3dc49000986d3bd24627
+p
+@src/main/java/org/example/java16/records/imutabilidade/User.java,7/f/7f8b7c9e22cc870146abaa23a1a1f703be57a3e2
+s
+Csrc/main/java/org/example/java16/records/imutabilidade/Exemplo.java,a/6/a645faf56642f2d56b995ac80890d71e9010a403
